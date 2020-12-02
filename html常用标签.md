@@ -98,7 +98,7 @@ style代码
     </style>
 ```
 
-![效果图](/table.png)
+![效果图](table.png)
 ## Form标签
 get或post刷新页面
 ```
@@ -153,5 +153,5 @@ get或post刷新页面
 </form>
 ```
 
-![效果图](/form.png)
+![效果图](form.png)
 
