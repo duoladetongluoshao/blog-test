@@ -99,8 +99,8 @@ grid-template-rows: 100px 300px 100px;
     grid-row-end: ;
 }
 ```
-## div的分层
-![](div分层.png)
+## div的分层 
+![分层图](div分层.png)
 ## Position的五个取值
 1.	static默认值，待在文档流里。
 2.	relative相对定位，升起来，但不脱离文档流，配合z-index使用
